@@ -43,7 +43,7 @@ If the project is configured to run with Expo, follow these instructions:
 Contributions are welcome! If you have improvements, bug fixes, or new features to contribute, please fork the project, make your changes, and submit a pull request.
 
 ## Author
-[Your Name]
+Rafael Rodrigues
 
 ## License
-This project is licensed under the [License Name] license.
+Senai Gaspar Ricardo Júnior - 2023
